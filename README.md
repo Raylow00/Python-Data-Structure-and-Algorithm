@@ -1,5 +1,7 @@
 Python Data Structure and Algorithms
+
 A one-stop repo to learn data structure and algorithms in Python
+
 
 Data structure:
 1. Array
@@ -19,6 +21,7 @@ Data structure:
 15. Binary search tree
 16. Heap
 17. Graphs
+
 
 Algorithms:
 1. Insertion sort
